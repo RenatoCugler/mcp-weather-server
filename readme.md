@@ -1,10 +1,8 @@
-```markdown
 # MCP Weather Server — Sample Project
 
 This repository is a small sample project: my first MCP (Model Context Protocol) server.
 
-It was created as an exercise following the tutorial linked below. 
-Thank you to the original author for the guide and inspiration.
+It was created as an exercise following the tutorial linked below. Thank you to the original author for the guide and inspiration.
 
 Credits
 -------
@@ -35,4 +33,3 @@ Notes
 
 If you'd like, I can add a small example client or a test harness to demonstrate
 calling the server locally.
-```
