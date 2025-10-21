@@ -3,7 +3,8 @@
 
 This repository is a small sample project: my first MCP (Model Context Protocol) server.
 
-It was created as an exercise following the tutorial linked below. Thank you to the original author for the guide and inspiration.
+It was created as an exercise following the tutorial linked below. 
+Thank you to the original author for the guide and inspiration.
 
 Credits
 -------
