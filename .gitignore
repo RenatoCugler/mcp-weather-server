@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Env files
+.env
+.env.*
+
+# Logs
+logs
+*.log
+pids
+*.pid
+*.seed
+
+# Runtime data
+*.pid.lock
+
+# Build outputs
+dist/
+build/
+out/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+coverage/
+coverage-final.json
+
+# Model Context Protocol / local dev
+.mcp-state/
+
+# Optional: local debug files
+.local-debug/
+
+# Ignore the project's locally-generated server transport logs or files
+*.log
+
+# Keep README and license tracked (explicit)
+!readme.md
